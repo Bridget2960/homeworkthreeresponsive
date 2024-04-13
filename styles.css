@@ -93,4 +93,13 @@
     border: 1px var(--primary-color);
     box-shadow: #ce1a38;
   }
-  
+  @media (max-width){
+    h1 {
+        font-size: 48px;
+        line-height: 1.5;
+    }
+    
+   h2 {
+    font-size: 32px;
+   } 
+  }
